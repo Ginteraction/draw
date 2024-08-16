@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="第 1 页" id="c5ULhFlpVbo5xQjqxNRR">
+    <mxGraphModel dx="852" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vr5x9FidwY8XEMQChV_H-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="164" y="-40" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vr5x9FidwY8XEMQChV_H-3" target="vr5x9FidwY8XEMQChV_H-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-3" value="IDS sensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="210" y="370" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="vr5x9FidwY8XEMQChV_H-12" vertex="1">
+          <mxGeometry width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-5" value="HAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="vr5x9FidwY8XEMQChV_H-12" vertex="1">
+          <mxGeometry x="14" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-6" value="mac log" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="vr5x9FidwY8XEMQChV_H-12" vertex="1">
+          <mxGeometry x="310" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-7" value="libpcap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="vr5x9FidwY8XEMQChV_H-12" vertex="1">
+          <mxGeometry x="110" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-8" value="libslog2parse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="vr5x9FidwY8XEMQChV_H-12" vertex="1">
+          <mxGeometry x="210" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vr5x9FidwY8XEMQChV_H-4" target="vr5x9FidwY8XEMQChV_H-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vr5x9FidwY8XEMQChV_H-16" target="vr5x9FidwY8XEMQChV_H-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-16" value="IDSM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vr5x9FidwY8XEMQChV_H-18" value="APP/显示终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
